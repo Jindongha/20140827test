@@ -1,5 +1,5 @@
-application: uos-pusher
-version: v2
+application: graphic-brook-662
+version: v1
 runtime: python27
 api_version: 1
 threadsafe: true
